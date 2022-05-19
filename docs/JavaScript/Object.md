@@ -1,6 +1,6 @@
 # Object
 
-![Object](/images/JavaScript/Object.svg)
+<img :src="$withBase('/images/JavaScript/Object.svg')" alt="Object">
 
 ## 创建
 
